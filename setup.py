@@ -5,11 +5,11 @@ setup(
     name='SyncMaster',
     version='1.0.0',
     author='MasterCard007',
-    author_email='your.email@example.com',
+    author_email='',
     description='A Python-based file synchronization tool',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/SyncMaster',
+    url='https://github.com/MasterCard007/SyncMaster',
     packages=find_packages(),
     install_requires=[
         'humanize',
