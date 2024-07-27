@@ -2,6 +2,7 @@
 # SyncMaster
 
 SyncMaster is a Python-based file synchronization tool that allows you to efficiently synchronize files between two directories. It supports concurrent file operations and provides detailed logging.
+Support both Windows 11 and MacOS
 
 ## Features
 
