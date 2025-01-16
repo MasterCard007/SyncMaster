@@ -1,7 +1,7 @@
 
-# SyncMaster
+# TwoWayFolderSync
 
-SyncMaster is a Python-based file synchronization tool that allows you to efficiently synchronize files between two directories. It supports concurrent file operations and provides detailed logging.
+TwoWayFolderSync is a Python-based file synchronization tool that allows you to efficiently synchronize files between two directories. It supports concurrent file operations and provides detailed logging.
 Support both Windows 11 and MacOS
 
 ## Features
@@ -30,7 +30,7 @@ pip install humanize
 1. Run the script:
 
 ```bash
-python SyncMaster.py
+python TwoWayFolderSync.py
 ```
 
 2. Follow the prompts to enter the source and target directory paths.
